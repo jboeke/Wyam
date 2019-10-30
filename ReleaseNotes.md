@@ -1,3 +1,13 @@
+# 2.2.9
+
+- [Fix] Updated to latest Buildalyzer (#865)
+- [Documentation] Fixed a typo (#860, thanks @pascalberger)
+- [Fix] Moved CleanBlog JS to the bottom so not to block rendering (#867, thanks @pug-pelle-p)
+
+# 2.2.8
+
+- [Fix] Updated NuGet packages in an attempt to fix ongoing package installation and signature verification problems
+
 # 2.2.7
 
 - [Fix] Fix for the fix that fixes bugs related to package installation and signature verification
